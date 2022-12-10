@@ -3,7 +3,7 @@
 * [09 December 2022](#09-December-2022) (428)
 * [08 December 2022](#08-December-2022) (419)
 * [07 December 2022](#07-December-2022) (273)
-* [06 December 2022](#06-December-2022) (381)
+* [06 December 2022](#06-December-2022) (382)
 * [05 December 2022](#05-December-2022) (311)
 * [04 December 2022](#04-December-2022) (244)
 * [03 December 2022](#03-December-2022) (326)
@@ -298,12 +298,13 @@ Total suspension reversals observed: 273
 </table>
 
 ## 06 December 2022
-Total suspension reversals observed: 381
+Total suspension reversals observed: 382
 
 ### By follower count
 <table><tr><th></th><th align="left">Twitter ID</th><th align="left">Screen name</th>
 <th align="left">Created</th><th align="left">Status</th><th align="left">Suspended</th><th align="left">Followers</th>
 <tr><td><a href="https://pbs.twimg.com/profile_images/1390404872164417538/1ZJefQdw_normal.jpg"><img src="https://pbs.twimg.com/profile_images/1390404872164417538/1ZJefQdw_normal.jpg" width="40px" height="40px" align="center"/></a></td><td><a href="https://twitter.com/intent/user?user_id=1627096298">1627096298</a></td><td><a href="https://twitter.com/We_Are_Right_">We_Are_Right_</a></td><td>2013-07-28</td><td align="center"></td><td>2022-10-29</td><td>145956</td></tr>
+<tr><td><a href="https://pbs.twimg.com/profile_images/844437301459607552/aucDes-4_normal.jpg"><img src="https://pbs.twimg.com/profile_images/844437301459607552/aucDes-4_normal.jpg" width="40px" height="40px" align="center"/></a></td><td><a href="https://twitter.com/intent/user?user_id=844434316943904768">844434316943904768</a></td><td><a href="https://twitter.com/bronzeagemantis">bronzeagemantis</a></td><td>2017-03-22</td><td align="center"></td><td></td><td>81255</td></tr>
 <tr><td><a href="https://pbs.twimg.com/profile_images/1515332535202775042/MVbmcbAd_normal.jpg"><img src="https://pbs.twimg.com/profile_images/1515332535202775042/MVbmcbAd_normal.jpg" width="40px" height="40px" align="center"/></a></td><td><a href="https://twitter.com/intent/user?user_id=23292743">23292743</a></td><td><a href="https://twitter.com/aimeeterese">aimeeterese</a></td><td>2009-03-08</td><td align="center"></td><td>2022-04-29</td><td>35357</td></tr>
 <tr><td><a href="https://pbs.twimg.com/profile_images/1296931395592433665/aInpQmoi_normal.jpg"><img src="https://pbs.twimg.com/profile_images/1296931395592433665/aInpQmoi_normal.jpg" width="40px" height="40px" align="center"/></a></td><td><a href="https://twitter.com/intent/user?user_id=788611364">788611364</a></td><td><a href="https://twitter.com/PernaReflitao">PernaReflitao</a></td><td>2012-08-29</td><td align="center"></td><td>2022-06-13</td><td>27199</td></tr>
 <tr><td><a href="https://pbs.twimg.com/profile_images/1563912829471789057/Hj4zxZ4U_normal.jpg"><img src="https://pbs.twimg.com/profile_images/1563912829471789057/Hj4zxZ4U_normal.jpg" width="40px" height="40px" align="center"/></a></td><td><a href="https://twitter.com/intent/user?user_id=34861840">34861840</a></td><td><a href="https://twitter.com/BCoulterAuthor">BCoulterAuthor</a></td><td>2009-04-24</td><td align="center"></td><td>2022-09-23</td><td>20360</td></tr>
@@ -327,7 +328,6 @@ Total suspension reversals observed: 381
 <tr><td><a href="https://pbs.twimg.com/profile_images/1574043819141627907/sIv31o1v_normal.jpg"><img src="https://pbs.twimg.com/profile_images/1574043819141627907/sIv31o1v_normal.jpg" width="40px" height="40px" align="center"/></a></td><td><a href="https://twitter.com/intent/user?user_id=1100120150026653701">1100120150026653701</a></td><td><a href="https://twitter.com/arnaldo1344">arnaldo1344</a></td><td>2019-02-25</td><td align="center"></td><td>2022-11-10</td><td>5155</td></tr>
 <tr><td><a href="https://pbs.twimg.com/profile_images/1324485287096000514/wfiNYSh9_normal.jpg"><img src="https://pbs.twimg.com/profile_images/1324485287096000514/wfiNYSh9_normal.jpg" width="40px" height="40px" align="center"/></a></td><td><a href="https://twitter.com/intent/user?user_id=761182175530287105">761182175530287105</a></td><td><a href="https://twitter.com/ThatRexGuy">ThatRexGuy</a></td><td>2016-08-04</td><td align="center"></td><td></td><td>5103</td></tr>
 <tr><td><a href="https://pbs.twimg.com/profile_images/1582191041263837184/kMjY9mvT_normal.jpg"><img src="https://pbs.twimg.com/profile_images/1582191041263837184/kMjY9mvT_normal.jpg" width="40px" height="40px" align="center"/></a></td><td><a href="https://twitter.com/intent/user?user_id=179621873">179621873</a></td><td><a href="https://twitter.com/Brandon6918">Brandon6918</a></td><td>2010-08-17</td><td align="center"></td><td>2022-11-22</td><td>5018</td></tr>
-<tr><td><a href="https://pbs.twimg.com/profile_images/1600244469126815747/5FF8VZrw_normal.jpg"><img src="https://pbs.twimg.com/profile_images/1600244469126815747/5FF8VZrw_normal.jpg" width="40px" height="40px" align="center"/></a></td><td><a href="https://twitter.com/intent/user?user_id=1392109015337996288">1392109015337996288</a></td><td><a href="https://twitter.com/burgerlover89">burgerlover89</a></td><td>2021-05-11</td><td align="center"></td><td>2022-03-05</td><td>4664</td></tr>
 </table>
 
 ### Other notable reversals
