@@ -33,7 +33,23 @@ All timestamps are epoch seconds.
 
 As far as I know there's no way to tell from the Twitter API whether an account is restricted because of rule violations.
 That means that this report can only track permanent suspensions, not accounts that are "temporarily unavailable" or have
-their activity locked. That means you won't find `@kanyewest` or `@jordanbpeterson` or `@TheBabylonBee` on here.
+their activity locked. That means you won't find `@jordanbpeterson` or `@TheBabylonBee` on here.
+
+> Where's Patrick Casey?
+
+Casey seems to have deactivated [his original twitter account](https://twitter.com/PatrickCaseyUSA) almost
+immediately after it was unsuspended, and [is now tweeting under his own name from one of his
+ban evasion accounts](https://twitter.com/travisbrown/status/1597822538692055040).
+In cases like this my software might not detect the unsuspension before the self-deactivation,
+which means the account will not appear in these reports.
+
+> Where's Andrew Anglin?
+
+There's been [a lot of reporting](https://www.rollingstone.com/politics/politics-news/elon-musk-twitter-reinstates-neo-nazi-andrew-anglin-account-1234640390/)
+about how Andrew Anglin was "booted off" the platform in 2013 and is now back,
+but as far as I can tell, Anglin's 2013 account [has never been permanently suspended](https://twitter.com/murphtracks/status/1598937629504200704),
+and his tweets from 2013 have been visible under a different screen name for at least most of this year.
+(Like Peterson and the Babylon Bee, he may have been locked out of his account, but I have no way of confirming that.)
 
 > Where are the "[62,000 accounts with more than 10,000 followers](https://www.platformer.news/p/why-some-tech-ceos-are-rooting-for)"?
 
