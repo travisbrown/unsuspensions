@@ -21,7 +21,7 @@ not a definitive collection of unsuspended accounts.
 
 ## Table of contents
 
-* [The report](report/) (rendered tables for each day of unsuspensions, with links, etc.)
+* [The report](report/README.md) (rendered tables for each day of unsuspensions, with links, etc.)
 * [A CSV spreadsheet](data/timestamps.csv) with three columns: Twitter ID, suspension observation timestamp (if known), and reversal observation timestamp
 * [A newline-delimited JSON file](data/profiles.ndjson) containing a profile snapshot for each unsuspended account
 
@@ -88,7 +88,7 @@ I'm happy to share this data with anyone who has a use for it.
 
 ## Report format
 
-The report provides two tables for each day. The first table includes the 25 accounts with the most followers observed to be unsuspended on that day.
+The report provides two tables for each day. The first table includes the 50 accounts with the most followers observed to be unsuspended on that day.
 The second table contains other "notable" accounts for that day, ranked by how closely they are connected (by following relationships) to the seed accounts.
 
 In the "Status" column in these tables, :wave: indicates that the account has self-deactivated after unsuspension, :no_entry_sign: that it has already been suspended again, :heavy_check_mark: that it is verified (in the non-Blue sense), and :lock: that it is protected.
