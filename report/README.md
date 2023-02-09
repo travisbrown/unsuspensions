@@ -1,8 +1,9 @@
 ## Table of contents
-Total number of Twitter suspension reversals included here: 39179.
+Total number of Twitter suspension reversals included here: 39539.
 
 Please see the project [README](https://github.com/travisbrown/unsuspensions) for a detailed description of the report format and methodology.
-* [08 February 2023](2023-02-08/) (473)
+* [09 February 2023](2023-02-09/) (70)
+* [08 February 2023](2023-02-08/) (768)
 * [07 February 2023](2023-02-07/) (299)
 * [06 February 2023](2023-02-06/) (232)
 * [05 February 2023](2023-02-05/) (128)
@@ -21,7 +22,7 @@ Please see the project [README](https://github.com/travisbrown/unsuspensions) fo
 * [23 January 2023](2023-01-23/) (450)
 * [22 January 2023](2023-01-22/) (369)
 * [21 January 2023](2023-01-21/) (811)
-* [20 January 2023](2023-01-20/) (447)
+* [20 January 2023](2023-01-20/) (446)
 * [19 January 2023](2023-01-19/) (515)
 * [18 January 2023](2023-01-18/) (337)
 * [17 January 2023](2023-01-17/) (402)
@@ -33,7 +34,7 @@ Please see the project [README](https://github.com/travisbrown/unsuspensions) fo
 * [11 January 2023](2023-01-11/) (433)
 * [10 January 2023](2023-01-10/) (199)
 * [09 January 2023](2023-01-09/) (145)
-* [08 January 2023](2023-01-08/) (130)
+* [08 January 2023](2023-01-08/) (129)
 * [07 January 2023](2023-01-07/) (152)
 * [06 January 2023](2023-01-06/) (66)
 * [05 January 2023](2023-01-05/) (38)
@@ -51,7 +52,7 @@ Please see the project [README](https://github.com/travisbrown/unsuspensions) fo
 * [24 December 2022](2022-12-24/) (388)
 * [23 December 2022](2022-12-23/) (822)
 * [22 December 2022](2022-12-22/) (391)
-* [21 December 2022](2022-12-21/) (677)
+* [21 December 2022](2022-12-21/) (676)
 * [20 December 2022](2022-12-20/) (74)
 * [19 December 2022](2022-12-19/) (298)
 * [18 December 2022](2022-12-18/) (311)
@@ -82,10 +83,10 @@ Please see the project [README](https://github.com/travisbrown/unsuspensions) fo
 * [23 November 2022](2022-11-23/) (375)
 * [22 November 2022](2022-11-22/) (346)
 * [21 November 2022](2022-11-21/) (2009)
-* [20 November 2022](2022-11-20/) (266)
+* [20 November 2022](2022-11-20/) (265)
 * [19 November 2022](2022-11-19/) (319)
 * [18 November 2022](2022-11-18/) (393)
-* [17 November 2022](2022-11-17/) (368)
+* [17 November 2022](2022-11-17/) (367)
 * [16 November 2022](2022-11-16/) (451)
 * [15 November 2022](2022-11-15/) (325)
 * [14 November 2022](2022-11-14/) (413)
