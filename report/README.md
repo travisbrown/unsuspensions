@@ -1,8 +1,9 @@
 ## Table of contents
-Total number of Twitter suspension reversals included here: 39539.
+Total number of Twitter suspension reversals included here: 40148.
 
 Please see the project [README](https://github.com/travisbrown/unsuspensions) for a detailed description of the report format and methodology.
-* [09 February 2023](2023-02-09/) (70)
+* [10 February 2023](2023-02-10/) (116)
+* [09 February 2023](2023-02-09/) (572)
 * [08 February 2023](2023-02-08/) (768)
 * [07 February 2023](2023-02-07/) (299)
 * [06 February 2023](2023-02-06/) (232)
@@ -31,8 +32,8 @@ Please see the project [README](https://github.com/travisbrown/unsuspensions) fo
 * [14 January 2023](2023-01-14/) (379)
 * [13 January 2023](2023-01-13/) (455)
 * [12 January 2023](2023-01-12/) (240)
-* [11 January 2023](2023-01-11/) (433)
-* [10 January 2023](2023-01-10/) (199)
+* [11 January 2023](2023-01-11/) (432)
+* [10 January 2023](2023-01-10/) (198)
 * [09 January 2023](2023-01-09/) (145)
 * [08 January 2023](2023-01-08/) (129)
 * [07 January 2023](2023-01-07/) (152)
@@ -48,7 +49,7 @@ Please see the project [README](https://github.com/travisbrown/unsuspensions) fo
 * [28 December 2022](2022-12-28/) (268)
 * [27 December 2022](2022-12-27/) (328)
 * [26 December 2022](2022-12-26/) (452)
-* [25 December 2022](2022-12-25/) (575)
+* [25 December 2022](2022-12-25/) (572)
 * [24 December 2022](2022-12-24/) (388)
 * [23 December 2022](2022-12-23/) (822)
 * [22 December 2022](2022-12-22/) (391)
@@ -57,7 +58,7 @@ Please see the project [README](https://github.com/travisbrown/unsuspensions) fo
 * [19 December 2022](2022-12-19/) (298)
 * [18 December 2022](2022-12-18/) (311)
 * [17 December 2022](2022-12-17/) (314)
-* [16 December 2022](2022-12-16/) (432)
+* [16 December 2022](2022-12-16/) (430)
 * [15 December 2022](2022-12-15/) (447)
 * [14 December 2022](2022-12-14/) (275)
 * [13 December 2022](2022-12-13/) (547)
@@ -66,7 +67,7 @@ Please see the project [README](https://github.com/travisbrown/unsuspensions) fo
 * [10 December 2022](2022-12-10/) (322)
 * [09 December 2022](2022-12-09/) (429)
 * [08 December 2022](2022-12-08/) (420)
-* [07 December 2022](2022-12-07/) (268)
+* [07 December 2022](2022-12-07/) (267)
 * [06 December 2022](2022-12-06/) (377)
 * [05 December 2022](2022-12-05/) (307)
 * [04 December 2022](2022-12-04/) (242)
@@ -86,7 +87,7 @@ Please see the project [README](https://github.com/travisbrown/unsuspensions) fo
 * [20 November 2022](2022-11-20/) (265)
 * [19 November 2022](2022-11-19/) (319)
 * [18 November 2022](2022-11-18/) (393)
-* [17 November 2022](2022-11-17/) (367)
+* [17 November 2022](2022-11-17/) (366)
 * [16 November 2022](2022-11-16/) (451)
 * [15 November 2022](2022-11-15/) (325)
 * [14 November 2022](2022-11-14/) (413)
