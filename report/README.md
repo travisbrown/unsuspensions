@@ -1,8 +1,9 @@
 ## Table of contents
-Total number of Twitter suspension reversals included here: 71754.
+Total number of Twitter suspension reversals included here: 72006.
 
 Please see the project [README](https://github.com/travisbrown/unsuspensions) for a detailed description of the report format and methodology.
-* [03 May 2023](2023-05-03/) (28)
+* [04 May 2023](2023-05-04/) (2)
+* [03 May 2023](2023-05-03/) (283)
 * [02 May 2023](2023-05-02/) (100)
 * [01 May 2023](2023-05-01/) (160)
 * [30 April 2023](2023-04-30/) (177)
@@ -17,7 +18,7 @@ Please see the project [README](https://github.com/travisbrown/unsuspensions) fo
 * [21 April 2023](2023-04-21/) (224)
 * [20 April 2023](2023-04-20/) (297)
 * [19 April 2023](2023-04-19/) (243)
-* [18 April 2023](2023-04-18/) (187)
+* [18 April 2023](2023-04-18/) (186)
 * [17 April 2023](2023-04-17/) (217)
 * [16 April 2023](2023-04-16/) (129)
 * [15 April 2023](2023-04-15/) (141)
@@ -128,7 +129,7 @@ Please see the project [README](https://github.com/travisbrown/unsuspensions) fo
 * [31 December 2022](2022-12-31/) (164)
 * [30 December 2022](2022-12-30/) (402)
 * [29 December 2022](2022-12-29/) (1026)
-* [28 December 2022](2022-12-28/) (263)
+* [28 December 2022](2022-12-28/) (262)
 * [27 December 2022](2022-12-27/) (323)
 * [26 December 2022](2022-12-26/) (444)
 * [25 December 2022](2022-12-25/) (571)
@@ -136,7 +137,7 @@ Please see the project [README](https://github.com/travisbrown/unsuspensions) fo
 * [23 December 2022](2022-12-23/) (808)
 * [22 December 2022](2022-12-22/) (384)
 * [21 December 2022](2022-12-21/) (671)
-* [20 December 2022](2022-12-20/) (72)
+* [20 December 2022](2022-12-20/) (71)
 * [19 December 2022](2022-12-19/) (295)
 * [18 December 2022](2022-12-18/) (308)
 * [17 December 2022](2022-12-17/) (309)
@@ -165,11 +166,11 @@ Please see the project [README](https://github.com/travisbrown/unsuspensions) fo
 * [24 November 2022](2022-11-24/) (339)
 * [23 November 2022](2022-11-23/) (360)
 * [22 November 2022](2022-11-22/) (337)
-* [21 November 2022](2022-11-21/) (2006)
+* [21 November 2022](2022-11-21/) (2005)
 * [20 November 2022](2022-11-20/) (265)
 * [19 November 2022](2022-11-19/) (316)
 * [18 November 2022](2022-11-18/) (388)
-* [17 November 2022](2022-11-17/) (363)
+* [17 November 2022](2022-11-17/) (362)
 * [16 November 2022](2022-11-16/) (447)
 * [15 November 2022](2022-11-15/) (324)
 * [14 November 2022](2022-11-14/) (408)
