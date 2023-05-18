@@ -1,8 +1,9 @@
 ## Table of contents
-Total number of Twitter suspension reversals included here: 74820.
+Total number of Twitter suspension reversals included here: 75260.
 
 Please see the project [README](https://github.com/travisbrown/unsuspensions) for a detailed description of the report format and methodology.
-* [17 May 2023](2023-05-17/) (37)
+* [18 May 2023](2023-05-18/) (25)
+* [17 May 2023](2023-05-17/) (457)
 * [16 May 2023](2023-05-16/) (289)
 * [15 May 2023](2023-05-15/) (311)
 * [14 May 2023](2023-05-14/) (268)
@@ -21,14 +22,14 @@ Please see the project [README](https://github.com/travisbrown/unsuspensions) fo
 * [01 May 2023](2023-05-01/) (160)
 * [30 April 2023](2023-04-30/) (177)
 * [29 April 2023](2023-04-29/) (157)
-* [28 April 2023](2023-04-28/) (1333)
+* [28 April 2023](2023-04-28/) (1332)
 * [27 April 2023](2023-04-27/) (304)
 * [26 April 2023](2023-04-26/) (261)
 * [25 April 2023](2023-04-25/) (185)
 * [24 April 2023](2023-04-24/) (163)
 * [23 April 2023](2023-04-23/) (110)
 * [22 April 2023](2023-04-22/) (114)
-* [21 April 2023](2023-04-21/) (223)
+* [21 April 2023](2023-04-21/) (221)
 * [20 April 2023](2023-04-20/) (297)
 * [19 April 2023](2023-04-19/) (243)
 * [18 April 2023](2023-04-18/) (186)
@@ -70,7 +71,7 @@ Please see the project [README](https://github.com/travisbrown/unsuspensions) fo
 * [13 March 2023](2023-03-13/) (581)
 * [12 March 2023](2023-03-12/) (374)
 * [11 March 2023](2023-03-11/) (465)
-* [10 March 2023](2023-03-10/) (669)
+* [10 March 2023](2023-03-10/) (668)
 * [09 March 2023](2023-03-09/) (960)
 * [08 March 2023](2023-03-08/) (540)
 * [07 March 2023](2023-03-07/) (176)
@@ -138,7 +139,7 @@ Please see the project [README](https://github.com/travisbrown/unsuspensions) fo
 * [04 January 2023](2023-01-04/) (536)
 * [03 January 2023](2023-01-03/) (161)
 * [02 January 2023](2023-01-02/) (1771)
-* [01 January 2023](2023-01-01/) (1099)
+* [01 January 2023](2023-01-01/) (1098)
 * [31 December 2022](2022-12-31/) (164)
 * [30 December 2022](2022-12-30/) (400)
 * [29 December 2022](2022-12-29/) (1021)
