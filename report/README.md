@@ -1,8 +1,9 @@
 ## Table of contents
-Total number of Twitter suspension reversals included here: 75260.
+Total number of Twitter suspension reversals included here: 75475.
 
 Please see the project [README](https://github.com/travisbrown/unsuspensions) for a detailed description of the report format and methodology.
-* [18 May 2023](2023-05-18/) (25)
+* [19 May 2023](2023-05-19/) (41)
+* [18 May 2023](2023-05-18/) (203)
 * [17 May 2023](2023-05-17/) (457)
 * [16 May 2023](2023-05-16/) (289)
 * [15 May 2023](2023-05-15/) (311)
@@ -38,7 +39,7 @@ Please see the project [README](https://github.com/travisbrown/unsuspensions) fo
 * [15 April 2023](2023-04-15/) (141)
 * [14 April 2023](2023-04-14/) (257)
 * [13 April 2023](2023-04-13/) (230)
-* [12 April 2023](2023-04-12/) (229)
+* [12 April 2023](2023-04-12/) (228)
 * [11 April 2023](2023-04-11/) (248)
 * [10 April 2023](2023-04-10/) (203)
 * [09 April 2023](2023-04-09/) (217)
@@ -58,7 +59,7 @@ Please see the project [README](https://github.com/travisbrown/unsuspensions) fo
 * [26 March 2023](2023-03-26/) (204)
 * [25 March 2023](2023-03-25/) (209)
 * [24 March 2023](2023-03-24/) (270)
-* [23 March 2023](2023-03-23/) (761)
+* [23 March 2023](2023-03-23/) (760)
 * [22 March 2023](2023-03-22/) (582)
 * [21 March 2023](2023-03-21/) (661)
 * [20 March 2023](2023-03-20/) (713)
@@ -111,7 +112,7 @@ Please see the project [README](https://github.com/travisbrown/unsuspensions) fo
 * [01 February 2023](2023-02-01/) (367)
 * [31 January 2023](2023-01-31/) (401)
 * [30 January 2023](2023-01-30/) (297)
-* [29 January 2023](2023-01-29/) (278)
+* [29 January 2023](2023-01-29/) (277)
 * [28 January 2023](2023-01-28/) (454)
 * [27 January 2023](2023-01-27/) (470)
 * [26 January 2023](2023-01-26/) (395)
@@ -138,7 +139,7 @@ Please see the project [README](https://github.com/travisbrown/unsuspensions) fo
 * [05 January 2023](2023-01-05/) (38)
 * [04 January 2023](2023-01-04/) (536)
 * [03 January 2023](2023-01-03/) (161)
-* [02 January 2023](2023-01-02/) (1771)
+* [02 January 2023](2023-01-02/) (1770)
 * [01 January 2023](2023-01-01/) (1098)
 * [31 December 2022](2022-12-31/) (164)
 * [30 December 2022](2022-12-30/) (400)
