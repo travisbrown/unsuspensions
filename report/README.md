@@ -1,8 +1,9 @@
 ## Table of contents
-Total number of Twitter suspension reversals included here: 81324.
+Total number of Twitter suspension reversals included here: 81475.
 
 Please see the project [README](https://github.com/travisbrown/unsuspensions) for a detailed description of the report format and methodology.
-* [13 June 2023](2023-06-13/) (44)
+* [14 June 2023](2023-06-14/) (50)
+* [13 June 2023](2023-06-13/) (147)
 * [12 June 2023](2023-06-12/) (161)
 * [11 June 2023](2023-06-11/) (219)
 * [10 June 2023](2023-06-10/) (266)
@@ -168,7 +169,7 @@ Please see the project [README](https://github.com/travisbrown/unsuspensions) fo
 * [01 January 2023](2023-01-01/) (1094)
 * [31 December 2022](2022-12-31/) (163)
 * [30 December 2022](2022-12-30/) (396)
-* [29 December 2022](2022-12-29/) (1016)
+* [29 December 2022](2022-12-29/) (1015)
 * [28 December 2022](2022-12-28/) (261)
 * [27 December 2022](2022-12-27/) (321)
 * [26 December 2022](2022-12-26/) (440)
@@ -227,7 +228,7 @@ Please see the project [README](https://github.com/travisbrown/unsuspensions) fo
 * [03 November 2022](2022-11-03/) (33)
 * [02 November 2022](2022-11-02/) (38)
 * [01 November 2022](2022-11-01/) (75)
-* [31 October 2022](2022-10-31/) (59)
+* [31 October 2022](2022-10-31/) (58)
 * [30 October 2022](2022-10-30/) (78)
 * [29 October 2022](2022-10-29/) (98)
 * [28 October 2022](2022-10-28/) (206)
